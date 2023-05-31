@@ -1,4 +1,4 @@
-# A Journey Through Algorithmic Stablecoins: Series Blog
+# A Journey Through Algorithmic Stablecoins, Failures and Solutions: Series Blog - Part 1
 
 ## Intro
 
