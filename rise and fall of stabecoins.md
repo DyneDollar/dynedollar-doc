@@ -1,12 +1,7 @@
-# A Journey Through Algorithmic Stablecoins, Failures and Solutions: Series Blog - Part 1
+# The Rise and Fall of Algorithmic Stablecoins (Series Blog - Part 1)
 
-## Intro
+In this series blog we traverse the thrilling landscape of algorithmic stablecoins. In this series, I aim to introduce the layers of complexity within algorithmic stablecoins with a simple languahe, addressing past failures and exploring potential solutions. Keep up with me as we journey together through this cool sphere of cryptocurrency. 
 
-Welcome to our series blog where we traverse the thrilling landscape of algorithmic stablecoins. In this series, we aim to unveil the layers of complexity within algorithmic stablecoins, addressing past issues and exploring potential solutions. Keep up with us as we journey together through this fascinating sphere of cryptocurrency. 
-
-## The Rise and Fall of Algorithmic Stablecoins
-
-Hey there, dear reader,
 
 Let's embark on a journey into the world of algorithmic stablecoins. These digital assets are ingeniously designed to remain pegged to a certain value, typically the US dollar. Brilliant, isn't it? However, it's not always a smooth sailing in this sphere.
 
